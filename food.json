@@ -1,0 +1,26 @@
+{
+    "7470": {
+        "Food_Id": 7470,
+        "Food_Name": "Maggie",
+        "Food_Quantity": "1 bowl",
+        "Food_Price": 120.0,
+        "Food_Discount": "10%",
+        "Food_Stock": "100 packet"
+    },
+    "3886": {
+        "Food_Id": 3886,
+        "Food_Name": "Garlic Bread",
+        "Food_Quantity": "4 pieces",
+        "Food_Price": 140.0,
+        "Food_Discount": "5%",
+        "Food_Stock": "20 bread packets"
+    },
+    "6511": {
+        "Food_Id": 6511,
+        "Food_Name": "Pastry ",
+        "Food_Quantity": "2 piece",
+        "Food_Price": 300.0,
+        "Food_Discount": "20%",
+        "Food_Stock": "30 pieces"
+    }
+}
