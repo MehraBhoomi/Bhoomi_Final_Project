@@ -1,21 +1,16 @@
 #  1. Register on the application. Following to be entered for registration:
-#         🔴 Full Name             # create a functionality as register
+#         🔴 Full Name             
 #         🔴 Phone Number
-#         🔴 Email                 # take  all these values as input as also save them in a json file
+#         🔴 Email                
 #         🔴 Address
-#         🔴 Password              # for each and every registeration give a unique id
+#         🔴 Password             
 # 2. Log in to the application
-# for log in just make email as unique in registration functionality 
-# then first check if the email id matches or not, if it does move to password check
-# if password also matches then ok otherwise return incorrect id or password , please enter valid email id and password
 # 3. The user will see 3 options:
-#         🔴 Place New Orde
-#         🔴 Order History           # make functionality for all three
-#         🔴 Update Profile
+#         🔴 Place New Orde   🔴 Order History    🔴 Update Profile
 # 4. Place New Order: The user can place a new order at the restaurant.
 #         🔵 Show list of food. The list item should as follows:
 #             🔴 Tandoori Chicken (4 pieces) [INR 240]
-#             🔴 Vegan Burger (1 Piece) [INR 320]              # here store the data in the form of dict inside the list
+#             🔴 Vegan Burger (1 Piece) [INR 320]
 #             🔴 Truffle Cake (500gm) [INR 900]
 # 5. Users should be able to select food by entering an array of numbers. 
 #        For example, if the user wants to order Vegan Burger and Truffle Cake they should enter [2, 3]
